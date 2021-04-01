@@ -1,0 +1,69 @@
+body{
+    background-image: url("./back-pic/pic3.jpeg");
+    opacity: 0.95;
+    text-align: center;
+    color: ivory;
+}
+
+#survey-form  {
+    text-align: left;
+    margin-left: 200px;
+}
+
+#dropdown{
+    margin: 0px 20px 30px 20px;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10%;
+}
+
+#textarea{
+    margin: 20px 20px 30px 20px;
+    padding: 10px 5px 10px 5px;
+}
+
+#name{
+    margin: 20px 20px 30px 20px;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10%;
+    font-size: 10px;
+}
+
+#value{
+    margin: 20px 20px 30px 20px;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10%;
+    font-size: 20px;
+}
+
+#name-label{
+    margin: 0px 20px 30px 20px;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10%;
+    font-size: 20px;
+}
+
+#email-label{
+    margin: 0px 20px 30px 20px;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10%;
+    font-size: 20px;
+}
+
+#number-label{
+    margin: 0px 20px 30px 20px;
+    padding: 10px 5px 10px 5px;
+    border-radius: 10%;
+    font-size: 20px;
+}
+
+#description{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.survey{
+    background-color: rgb(46, 9, 80);
+    opacity: 0.9;
+    margin: 20px 200px 20px 200px;
+    padding: auto;
+}
